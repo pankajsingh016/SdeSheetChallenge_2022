@@ -8,5 +8,5 @@
 #### Days and Link
 Day | Folder Link
 :------------- | -------------:
-Day 1 |  
-Day 2 |
+Day 1 |  [Here](https://github.com/pankajsingh016/SdeSheetChallenge_2022/tree/main/Day%201)
+Day 2 |   [Here]()
