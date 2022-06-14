@@ -9,4 +9,6 @@
 Day | Folder Link
 :------------- | -------------:
 Day 1 |  [Here](https://github.com/pankajsingh016/SdeSheetChallenge_2022/tree/main/Day%201)
-Day 2 |   [Here]()
+Day 2 |   [Here](https://github.com/pankajsingh016/SdeSheetChallenge_2022/tree/main/Day%202)
+Day 3 | [Here]()
+Day 4 | [Here]()
